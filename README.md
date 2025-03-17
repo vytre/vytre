@@ -3,7 +3,7 @@
 ### Project Links
 |  Links to exams, both individual and group. |  Links to hobby projects. |
 | -------------------------------------------- | ------------------------- |
-| - [Agile-Project (ANCEP - Crossroads)](https://ancep-crossroads-8e49f87b6e17.herokuapp.com/) | - [Renteklokke](https://renteklokke-ae35fd275f91.herokuapp.com/)|
+| - [~~Agile-Project (ANCEP - Crossroads~~)](https://ancep-crossroads-8e49f87b6e17.herokuapp.com/) **Currently Offline**| - [~~Renteklokke~~](https://renteklokke-ae35fd275f91.herokuapp.com/) **Currently Offline**|
 
 
 #### Languages & Tools
@@ -13,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
